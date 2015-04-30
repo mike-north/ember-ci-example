@@ -1,6 +1,6 @@
 {
   "framework": "qunit",
-  "port": "7000",
+  "host": "lvh.me",
   "test_page": "tests/index.html?hidepassed",
   "launch_in_ci": [
     "PhantomJS",

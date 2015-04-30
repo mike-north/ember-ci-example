@@ -5,8 +5,8 @@ var Router = Ember.Router.extend({
   location: config.locationType
 });
 
-Router.map(function() {
-  this.resource('lists', function () {
+Router.map(function()  {
+  this.resource('lists', function ()  {
     this.route('index', {path: '/'});
   });
   this.resource('list', {path: 'list/:id'}, function () {
