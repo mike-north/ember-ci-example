@@ -9,6 +9,7 @@ import Pretender from 'pretender';
 var application;
 var server;
 
+
 module('Acceptance: Lists', {
   beforeEach() {
     application = startApp();
