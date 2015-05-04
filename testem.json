@@ -1,17 +1,9 @@
 {
   "framework": "qunit",
   "host": "lvh.me",
-  "test_page": "tests/index.html?hidepassed",
+  "test_page": "tests/index.html?hidepassed&coverage",
   "launch_in_ci": [
-    "PhantomJS",
-    "SL_internet_explorer_9_Windows_7",
-    "SL_internet_explorer_10_Windows_7",
-    "SL_internet_explorer_11_Windows_8.1",
-    "SL_firefox",
-    "SL_chrome",
-    "SL_safari",
-    "iPhone 8.2",
-    "Android 5.1"
+    "PhantomJS"
   ],
   "launch_in_dev": [
     "PhantomJS",
