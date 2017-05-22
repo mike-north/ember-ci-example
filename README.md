@@ -1,4 +1,6 @@
 # Testme [![Build Status](https://travis-ci.org/truenorth/ember-svember-testme.svg)](https://travis-ci.org/truenorth/ember-svember-testme)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-ci-example.svg)](https://greenkeeper.io/)
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/northm_testme.svg?auth=04c81111b17afbf6d952b0b8e0028d0d)](https://saucelabs.com/u/northm_testme)
 
 This README outlines the details of collaborating on this Ember application.
